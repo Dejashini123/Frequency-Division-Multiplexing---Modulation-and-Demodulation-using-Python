@@ -111,11 +111,13 @@ end
 
 disp("Done: smooth demodulated signals.");
 ```
+### Tabulation:
+![WhatsApp Image 2025-11-22 at 10 43 42 PM](https://github.com/user-attachments/assets/ab393316-47aa-4274-9dba-a2f9a2159295)
+
 
 __Output_:
 ![WhatsApp Image 2025-11-22 at 10 32 46 PM](https://github.com/user-attachments/assets/370e55a4-6922-4aaf-b4fc-accc8cf2b54d)
-![WhatsApp Image 2025-11-22 at 10 34 15 PM](https://github.com/user-attachments/assets/7ef1bce0-70c2-4f72-9f26-9785707b6b2f)
-
+![WhatsApp Image 2025-11-22 at 10 42 40 PM](https://github.com/user-attachments/assets/0db5f1a7-9ab9-4430-8163-d82ea5aae1c2)
 
 
 __Result__:
